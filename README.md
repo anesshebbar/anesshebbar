@@ -86,15 +86,11 @@
 
 ## Github Stats
 
-<div align="center">
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anesshebbar&show_icons=true&locale=en" alt="GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anesshebbar&show_icons=true&locale=en&layout=compact" alt="Top languages" height="165"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anesshebbar&show_icons=true&locale=en&layout=compact" alt="anesshebbar" /></p>
+<br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anesshebbar&show_icons=true&locale=en" alt="anesshebbar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar&" alt="anesshebbar" /></p>
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar" alt="GitHub streak stats"/> </div>
 
 
 <br clear="both">
