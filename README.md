@@ -84,13 +84,14 @@
 
 <br clear="both">
 
-## Github Stats
+## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anesshebbar&show_icons=true&locale=en" alt="GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anesshebbar&show_icons=true&locale=en&layout=compact" alt="Top languages" height="165"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anesshebbar&show_icons=true)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anesshebbar&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar" alt="GitHub streak stats"/> </div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar)
+
 
 
 <br clear="both">
