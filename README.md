@@ -60,6 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
+<br clear="both">
+
 **Core Skills:**
 -  **Statistical Analysis**: Regression (Linear, Lasso, Ridge), Hypothesis Testing, Cross-Validation
 -  **Machine Learning**: Supervised Learning, Feature Engineering, Model Selection, Regularization
