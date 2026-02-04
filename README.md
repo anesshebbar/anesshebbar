@@ -9,21 +9,20 @@
 
 <br clear="both">
 
-## About Me
+## 👨‍💻 About Me
 
--  Master's student in **Data Science** (M1)
--  Specializing in **Statistical Modeling**, **Machine Learning**, and **Data Analysis**
--  Currently working on predictive models for credit risk and HR analytics
--  Looking for **Data Analyst / Data Scientist internship**
--  Learning advanced techniques in **Deep Learning**
--  Open to collaborate on **data projects** and **ML challenges**
--  Ask me about **Python**, **Machine Learning**, **Statistics**, or **Data Visualization**
+- 🎓 Master's student in **Data Science** (M1)
+- 📊 Specializing in **Statistical Modeling**, **Machine Learning**, and **Data Analysis**
+- 🔍 Currently working on predictive models for credit risk and HR analytics
+- 💼 Looking for **Data Analyst / Data Scientist internship**
+- 🌱 Learning advanced techniques in **Deep Learning**
+- 👯 Open to collaborate on **data projects** and **ML challenges**
+- 💬 Ask me about **Python**, **Machine Learning**, **Statistics**, or **Data Visualization**
 - 📫 Reach me: [aness-hebbar@hotmail.com](mailto:aness-hebbar@hotmail.com)
 
 <br clear="both">
 
-
-## Technical Skills
+## 🛠️ Technical Skills
 
 ### Data Science & Machine Learning
 <div align="left">
@@ -63,10 +62,10 @@
 <br clear="both">
 
 **Core Skills:**
--  **Statistical Analysis**: Regression (Linear, Lasso, Ridge), Hypothesis Testing, Cross-Validation
--  **Machine Learning**: Supervised Learning, Feature Engineering, Model Selection, Regularization
--  **Data Visualization**: Matplotlib, Seaborn, Plotly
--  **Data Manipulation**: Pandas, NumPy, SQL Joins, Data Cleaning, ETL
+- 📊 **Statistical Analysis**: Regression (Linear, Lasso, Ridge), Hypothesis Testing, Cross-Validation
+- 🤖 **Machine Learning**: Supervised Learning, Feature Engineering, Model Selection, Regularization
+- 📈 **Data Visualization**: Matplotlib, Seaborn, Plotly
+- 🗄️ **Data Manipulation**: Pandas, NumPy, SQL Joins, Data Cleaning, ETL
 
 ### Databases & Tools
 <div align="left">
@@ -82,8 +81,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-
-
 
 <br clear="both">
 
@@ -105,13 +102,12 @@
 
 <br clear="both">
 
+## 🎯 What I'm Working On
 
-## What I'm Working On
-
--  Developing predictive models for real-world business problems
--  Deepening my knowledge in **Deep Learning** and **NLP**
--  Building end-to-end data pipelines and ML deployment workflows
--  Creating interactive dashboards with **Streamlit** and **Plotly Dash**
+- 🔬 Developing predictive models for real-world business problems
+- 📚 Deepening my knowledge in **Deep Learning** and **NLP**
+- 🏗️ Building end-to-end data pipelines and ML deployment workflows
+- 📊 Creating interactive dashboards with **Streamlit** and **Plotly Dash**
 
 <br clear="both">
 
@@ -141,7 +137,7 @@
 ---
 
 <div align="center">
-   <b>Open to internship opportunities in Data Analysis & Data Science</b>
+  💼 <b>Open to internship opportunities in Data Analysis & Data Science</b>
   <br>
-   Let's transform data into insights together!
+  📊 Let's transform data into insights together!
 </div>
