@@ -91,11 +91,15 @@
 
 <div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anesshebbar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anesshebbar" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anesshebbar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anesshebbar" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anesshebbar&show_icons=true&locale=en&theme=tokyonight" alt="anesshebbar" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar&theme=tokyonight" alt="anesshebbar" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=anesshebbar&show_icons=true&locale=en&theme=tokyonight" alt="anesshebbar" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar&theme=tokyonight" alt="anesshebbar" />
 
 </div>
 
