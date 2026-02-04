@@ -87,23 +87,18 @@
 
 <br clear="both">
 
-## 📊 GitHub Stats
+## Github Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anesshebbar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anesshebbar" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anesshebbar&show_icons=true&locale=en&layout=compact" alt="anesshebbar" /></p>
 
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anesshebbar&show_icons=true&locale=en" alt="anesshebbar" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anesshebbar&show_icons=true&locale=en&theme=tokyonight" alt="anesshebbar" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar&theme=tokyonight" alt="anesshebbar" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar&" alt="anesshebbar" /></p>
 
 </div>
 
-<br clear="both">
 
 ## What I'm Working On
 
