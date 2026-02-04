@@ -91,11 +91,11 @@
 
 <div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anesshebbar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anessHebbar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anesshebbar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anesshebbar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anesshebbar&show_icons=true&locale=en&theme=tokyonight" alt="anessHebbar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anesshebbar&show_icons=true&locale=en&theme=tokyonight" alt="anesshebbar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar&theme=tokyonight" alt="anessHebbar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar&theme=tokyonight" alt="anesshebbar" /></p>
 
 </div>
 
@@ -119,7 +119,7 @@
   <a href="mailto:aness-hebbar@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/anessHebbar" target="_blank">
+  <a href="https://github.com/anesshebbar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://discord.gg/anessdom13" target="_blank">
