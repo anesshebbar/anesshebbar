@@ -4,25 +4,25 @@
 
 <h1 align="center">Hi 👋 ! I'm Aness, Data Analyst & Data Scientist</h1>
 <h3 align="center">Transforming Data into Actionable Insights</h3>
-<div align="center">📊 Passionate about Machine Learning, Statistical Modeling & Business Intelligence</div>
+<div align="center">  Passionate about Machine Learning, Statistical Modeling & Business Intelligence</div>
 <div align="center">💡 Turning complex data into clear decisions</div>
 
 <br clear="both">
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Master's student in **Data Science** (M1)
-- 📊 Specializing in **Statistical Modeling**, **Machine Learning**, and **Data Analysis**
-- 🔍 Currently working on predictive models for credit risk and HR analytics
-- 💼 Looking for **Data Analyst / Data Scientist internship**
-- 🌱 Learning advanced techniques in **Deep Learning**
-- 👯 Open to collaborate on **data projects** and **ML challenges**
-- 💬 Ask me about **Python**, **Machine Learning**, **Statistics**, or **Data Visualization**
-- 📫 Reach me: [aness-hebbar@hotmail.com](mailto:aness-hebbar@hotmail.com)
+-  Master's student in **Data Science** (M1)
+-  Specializing in **Statistical Modeling**, **Machine Learning**, and **Data Analysis**
+-  Currently working on predictive models for credit risk and HR analytics
+-  Looking for **Data Analyst / Data Scientist internship**
+-  Learning advanced techniques in **Deep Learning**
+-  Open to collaborate on **data projects** and **ML challenges**
+-  Ask me about **Python**, **Machine Learning**, **Statistics**, or **Data Visualization**
+-  Reach me: [aness-hebbar@hotmail.com](mailto:aness-hebbar@hotmail.com)
 
 <br clear="both">
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Data Science & Machine Learning
 <div align="left">
@@ -62,10 +62,10 @@
 <br clear="both">
 
 **Core Skills:**
-- 📊 **Statistical Analysis**: Regression (Linear, Lasso, Ridge), Hypothesis Testing, Cross-Validation
-- 🤖 **Machine Learning**: Supervised Learning, Feature Engineering, Model Selection, Regularization
-- 📈 **Data Visualization**: Matplotlib, Seaborn, Plotly
-- 🗄️ **Data Manipulation**: Pandas, NumPy, SQL Joins, Data Cleaning, ETL
+-  **Statistical Analysis**: Regression (Linear, Lasso, Ridge), Hypothesis Testing, Cross-Validation
+-  **Machine Learning**: Supervised Learning, Feature Engineering, Model Selection, Regularization
+-  **Data Visualization**: Matplotlib, Seaborn, Plotly
+-  **Data Manipulation**: Pandas, NumPy, SQL Joins, Data Cleaning, ETL
 
 ### Databases & Tools
 <div align="left">
@@ -86,18 +86,20 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anesshebbar&show_icons=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anesshebbar&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anesshebbar&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=anesshebbar&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar)
+![GitHub Streak](https://streak-stats.demolab.com?user=anesshebbar)
 
-## 🎯 What I'm Working On
+<br clear="both">
 
-- 🔬 Developing predictive models for real-world business problems
-- 📚 Deepening my knowledge in **Deep Learning** and **NLP**
-- 🏗️ Building end-to-end data pipelines and ML deployment workflows
-- 📊 Creating interactive dashboards with **Streamlit** and **Plotly Dash**
+## What I'm Working On
+
+-  Developing predictive models for real-world business problems
+-  Deepening my knowledge in **Deep Learning** and **NLP**
+-  Building end-to-end data pipelines and ML deployment workflows
+-  Creating interactive dashboards with **Streamlit** and **Plotly Dash**
 
 <br clear="both">
 
@@ -129,5 +131,5 @@
 <div align="center">
   💼 <b>Open to internship opportunities in Data Analysis & Data Science</b>
   <br>
-  📊 Let's transform data into insights together!
+    Let's transform data into insights together!
 </div>
