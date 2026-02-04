@@ -92,10 +92,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anesshebbar)
 
-
-
-<br clear="both">
-
 ## 🎯 What I'm Working On
 
 - 🔬 Developing predictive models for real-world business problems
